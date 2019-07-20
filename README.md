@@ -10,13 +10,13 @@
   <a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack/blob/master/LICENSE">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" target="_blank" />
   </a>
-  [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+  <a href="https://github.com/prettier/prettier">
+    <img alt="code style: prettier"  src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"  target="_blank"  />
+  </a>
   <a href="https://twitter.com/Guibz16">
     <img alt="Twitter: Guibz16" src="https://img.shields.io/twitter/follow/Guibz16.svg?style=social" target="_blank" />
   </a>
 </p>
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 > A starter pack to create Chrome Extensions using Typescript and React
 
