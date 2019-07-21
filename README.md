@@ -22,6 +22,10 @@
 
 ### 🏠 [Homepage](https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack#readme)
 
+## Tutorial 
+
+- [Medium Publication](https://medium.com/@th.guibert/create-a-chrome-extension-using-react-and-typescript-50e94e14320c)
+
 ## Install
 
 ```sh
