@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to Chrome Extension with React and Typescript Starter Pack 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
@@ -18,11 +17,13 @@
   </a>
 </p>
 
-> A starter pack to create Chrome Extensions using Typescript and React
+> A starter pack to create a Chrome Extension using Typescript and React
 
 ### 🏠 [Homepage](https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack#readme)
 
 ## Tutorial 
+
+Learn to build this Starter Pack step by step
 
 - [Medium Publication](https://medium.com/@th.guibert/create-a-chrome-extension-using-react-and-typescript-50e94e14320c)
 
@@ -38,12 +39,20 @@ npm i && cd src/popup && npm i
 npm run watch
 ```
 
+## Build
+
+```sh
+npm run build
+```
+
 ## Author
 
 👤 **Guibert Thomas**
 
+- LinkedIn: [thomas-guibert](https://www.linkedin.com/in/thomas-guibert/)
+- Github: [thmsgbrt](https://github.com/thmsgbrt)
+- Medium: [@thmsgbrt](https://medium.com/@th.guibert)
 - Twitter: [@Guibz16](https://twitter.com/Guibz16)
-- Github: [@thmsgbrt](https://github.com/thmsgbrt)
 
 ## 🤝 Contributing
 
