@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Chrome Extension with React and Typescript Starter Pack 👋</h1>
+<h1 align="center">Chrome Extension with React and Typescript Starter Pack</h1>
 <p>
   <a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
