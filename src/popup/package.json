@@ -15,6 +15,7 @@
     "react-scripts": "3.4.1",
     "typescript": "^3.7.5"
   },
+  "homepage": ".",
   "scripts": {
     "watch:build": "cra-build-watch -v --build-path ../../dist/popup",
     "start": "react-scripts start",
