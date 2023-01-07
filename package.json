@@ -36,7 +36,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "bestzip": "2.1.7",
     "cpy-cli": "2.0.0",
-    "cra-build-watch": "3.0.0",
+    "cra-build-watch": "3.4.0",
     "css-loader": "3.2.1",
     "mini-css-extract-plugin": "^0.8.0",
     "node-sass": "4.13.0",
